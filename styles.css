@@ -1,1 +1,21 @@
+<link rel="stylesheet" href="styles.css">
+<head>
+  <meta charset=utf-8" />
+<title>Musiikki</title>
+</head>
+<body>
+  <main>
+    <h1>Musiikki</h1>
+    <p>Metallimusiikki<p>
+    <section>
+       <h2>Tässä on siitä että minkälaista musiikkia kuuntelen<h2>
+<style>h1,h2,p{text-align:center}</style>
+
+body {background-color: grey;}
+
+a:hover {color: brown;}
+
+a:active {color: white;}
+
+
 
