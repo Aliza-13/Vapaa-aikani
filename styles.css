@@ -1,21 +1,78 @@
 <link rel="stylesheet" href="styles.css">
 <head>
-  <meta charset=utf-8" />
+  <style>
+    a {
+      color: white;
+      text-decoration: underline;
+    }
+
+</style>
+<style>
+ body {
+   background-color: black;
+     color: red;
+ }
+</style>
+
+<style>
+img {
+  box-shadow: 0 0 10px 5px rgba(255,255,255,255,0.5);
+}
+</style>
+
+<body {
+  font-family: Helvetica;
+}
+
 <title>Musiikki</title>
+
 </head>
-<body>
-  <main>
-    <h1>Musiikki</h1>
-    <p>Metallimusiikki<p>
-    <section>
-       <h2>Tässä on siitä että minkälaista musiikkia kuuntelen<h2>
-<style>h1,h2,p{text-align:center}</style>
 
-body {background-color: grey;}
+<main>
+<h1 class="otsikko">Musiikki</h1>
+  <style>
 
-a:hover {color: brown;}
+.otsikko {
+  color: green;
+}
+</style>
 
-a:active {color: white;}
+<h2 class="Kuuntelu">Tässä on siitä minkälaista musiikkia kuuntelen</h2>
+<style>
+
+.Kuuntelu {
+  color: blue;
+}
+</style>
+
+<img src="lightshow-22314_640.jpg" alt="metallimusiikki/>
+
+<section>
+  <h2 class="lista">Tässä lista:</h2>
+<style>
+.lista {
+  color: purple; 
+}
+</style>
+
+<ol>
+<li>Heavy Metal</li>
+<li>Power metal</li>
+<li>Symphonic metal</li>
+<li>Industrial metal</li>
+<li>Folk metal</li>
+<li>Darkwave</li>
+<li>Gothic Rock</li>
+</ol>
+
+<style>
+
+a: hover {cover: brown;}
+
+a: active {color: white;
+           
+
+</main>
 
 
 
