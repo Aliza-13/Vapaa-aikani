@@ -24,6 +24,14 @@ img {
   font-family: Helvetica;
 }
 
+<style>
+.keskitetty {
+  text-align: center;
+}
+<div class="keskitetty">h1, h2, ol, li</div>
+
+
+
 <title>Musiikki</title>
 
 </head>
