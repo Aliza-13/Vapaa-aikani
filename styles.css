@@ -1,24 +1,41 @@
-<link rel="stylesheet" href="styles.css">
-<head>
-  <style>
-    a {
-      color: white;
-      text-decoration: underline;
-    }
-
-</style>
+<!DOCTYPE html>
+<html>
 <style>
- body {
-   background-color: black;
-     color: red;
- }
-</style>
-
-<style>
-img {
-  box-shadow: 0 0 10px 5px rgba(255,255,255,255,0.5);
+body {
+  background-color: grey;
 }
+h1 {
+  color: red;
+  text-align: center;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 20px;
+}
+
 </style>
+</head>
+ <body>
+
+<h1>Kotisivuni CSS:ää käyttäen</h>
+<p>Tässä kerron vähän erilaisista lempiasioistani<p>
+
+
+<style>
+p {
+  color: white;
+  text-align: center;
+
+  font-family: Helvetica;
+  font-size: 20px;
+
+  </style>
+
+  <p>Aloitetaan lempiruuista<p>
+
+  </body>
+  </html>
 
 <body {
   font-family: Helvetica;
