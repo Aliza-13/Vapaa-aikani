@@ -37,6 +37,34 @@ p {
 
   <p>Tykkään syödä pastaruokia ja <strong>tulista</strong> ruokaa</p>
 
+<style>
+h4 {
+  color: green;
+  text-align: center;
+
+  font-family: Helvetica;
+  font-size: 20px;
+}
+
+</style>
+
+<h4>Seuraavaksi on lempieläinteni vuoro</h4>
+<h4>Minulla on monta lempieläintä mutta ne mitkä yleensä ovat:</h4>
+
+<h3>Korppi</h3>
+
+<h3>Susi</h3>
+
+<style>
+h5 {
+  color: red;
+  text-align: center;
+
+  font-family: helvetica;
+  font-size: 20px;
+
+  <h5>Viimeiseksi kerron vielä minkälaista musiikkia tykkään kuunnella</h5>
+
   </body>
   </html>
 
