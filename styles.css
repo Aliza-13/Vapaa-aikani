@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <style>
 body {
   background-color: grey;
@@ -9,7 +8,8 @@ h1 {
   text-align: center;
 }
 
-p {
+h3 {
+  text-align: Center;
   font-family: Helvetica;
   font-size: 20px;
 }
@@ -19,20 +19,23 @@ p {
  <body>
 
 <h1>Kotisivuni CSS:ää käyttäen</h>
-<p>Tässä kerron vähän erilaisista lempiasioistani<p>
+<h3>Tässä kerron vähän erilaisista lempiasioistani</h3>
 
 
 <style>
 p {
-  color: white;
+  color: brown;
   text-align: center;
 
   font-family: Helvetica;
   font-size: 20px;
+}
 
   </style>
 
-  <p>Aloitetaan lempiruuista<p>
+  <p>Aloitetaan lempiruuista ja juomista</p>
+
+  <p>Tykkään syödä pastaruokia ja <strong>tulista</strong> ruokaa</p>
 
   </body>
   </html>
